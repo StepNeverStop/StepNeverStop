@@ -1,5 +1,5 @@
 ```python3
-class ME:
+class ME(Dog):
 
   def __init__(self):
     self.name = 'Keavnn'
