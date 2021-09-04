@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keavnn</h1>
-<h3 align="center">Reinforcement Learning Amateur. A AI PhD candidate from LAMDA5 of Nanjing University</h3>
+<h3 align="center">Reinforcement Learning Amateur. A AI Ph.D. candidate from LAMDA5 of Nanjing University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stepneverstop" alt="stepneverstop" /> </p>
 
 - 🔭 I’m currently working on [a RL training framework——RLs](https://github.com/StepNeverStop/RLs)
 
-- 🌱 I’m currently learning **Maximum entropy RL, MARL, HRL, etc.**
+- 🌱 I’m currently learning **MARL, MBRL, OfflineRL, etc.**
 
 - 👯 I’m looking to collaborate with **other RL creators**
 
