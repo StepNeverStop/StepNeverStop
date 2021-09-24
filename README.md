@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keavnn</h1>
-<h3 align="center">Reinforcement Learning Amateur. A AI Ph.D. candidate from LAMDA5 of Nanjing University</h3>
+<h3 align="center">Reinforcement Learning Amateur. <a href="http://www.lamda.nju.edu.cn/wangjianshu/">An AI Ph.D. candidate from LAMDA5 of Nanjing University</a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stepneverstop" alt="stepneverstop" /> </p>
 
