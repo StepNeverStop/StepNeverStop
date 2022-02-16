@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a RL training framework——RLs](https://github.com/StepNeverStop/RLs)
 
-- 🌱 I’m currently learning **MARL, MBRL, OfflineRL, etc.**
+- 🌱 I’m currently learning **Safe RL, HRL, MBRL, etc.**
 
 - 👯 I’m looking to collaborate with **other RL creators**
 
